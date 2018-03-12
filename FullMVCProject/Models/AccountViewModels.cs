@@ -1,6 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 
+//project start
 namespace FullMVCProject.Models
 {
     public class ExternalLoginConfirmationViewModel
